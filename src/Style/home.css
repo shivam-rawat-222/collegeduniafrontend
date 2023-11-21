@@ -1,0 +1,12 @@
+
+
+
+.explore:hover .subexplore{
+    cursor: pointer;
+  display: block;
+  animation: rotateMenu 800ms ease-in-out forwards;
+  transform-origin: top center
+}
+
+
+
